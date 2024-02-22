@@ -1,8 +1,8 @@
-#write a python program to print a smallest ovel repeating odd no. of times in the given string?
+#write a python program to print a smallest vowel repeating odd no. of times in the given string?
 '''str1=input()
 str2=""
 for i in str1:
-    if i in "aeiouAEIOU":                  #vallibi=a i i - ovels are coming out from given input
+    if i in "aeiouAEIOU":                  #vallibi=a i i - vowels are coming out from given input
         print(i)'''
 
 
