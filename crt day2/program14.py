@@ -1,4 +1,4 @@
-#write a python program to print the count of ovels in both even and odd positions?
+#write a python program to print the count of vowels in both even and odd positions?
 s1=input()
 ec,oc=0,0
 for i in range(len(s1)):
